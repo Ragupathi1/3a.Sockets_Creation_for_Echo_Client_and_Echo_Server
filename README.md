@@ -1,5 +1,5 @@
 # EXP : 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
-## Register no: 212221040135
+## Register Number: 212221040135
 ## Name: Ragupathi P
 ## AIM:
 To write a python program for creating Echo Client and Echo Server using TCP
